@@ -1,0 +1,71 @@
+/* All Of Website */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*-- All Of Website --*/
+
+/* General Elements */
+h1 {
+    color: orange;
+}
+
+p {
+    font-size: 1.5em;
+    color: #333;
+    margin: 8px 10px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+h2 {
+    color: aqua;
+    margin: 1rem;
+}
+
+h3 {
+    background-color: silver;
+    text-align: center;
+    margin: 5px;
+}
+/*-- General Elements --*/
+
+/* Nav For Page1 & Page2 */
+nav {
+    padding: 10px;
+    background-color: #333;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    display: initial;
+    padding: 10px;
+}
+
+.home {
+    margin-right: 50px;
+}
+
+li a {
+    font-size: 2em;
+    color: #eee;
+}
+/*-- Nav For Page1 & Page2  --*/
+
+/* Title Of The Page */
+.title {
+    color: black;
+    margin: 20px 0;
+    text-align: center;
+}
+/*-- Title Of The Page --*/
+
+
+
